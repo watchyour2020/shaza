@@ -21,3 +21,7 @@ System.out.println("There is no API, cry about it")
 ### OK I DONT KNOW HOW TO USE GITHUB AND IM OUT OF IDEAS
 
 - no u
+
+### GIORNO GIOVANNA
+
+[![Giorno Giovanna](https://pbs.twimg.com/media/ELL6YALWkAAINNF.jpg "Giorno Giovanna")](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Giorno Giovanna")
