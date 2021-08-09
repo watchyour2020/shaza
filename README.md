@@ -18,6 +18,6 @@ System.out.println("There is no API, cry about it")
 ```
 
 ![]()
-### OK I DONT KNOW HOW TO USE GITHUB AND IM OUT OF IDES
+### OK I DONT KNOW HOW TO USE GITHUB AND IM OUT OF IDEAS
 
 - no u
