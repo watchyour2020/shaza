@@ -25,3 +25,8 @@ System.out.println("There is no API, cry about it")
 ### GIORNO GIOVANNA
 
 [![Giorno Giovanna](https://pbs.twimg.com/media/ELL6YALWkAAINNF.jpg "Giorno Giovanna")](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Giorno Giovanna")
+
+# INFO
+- jesus fucking christ.
+- don't use this shit
+- its garbage
