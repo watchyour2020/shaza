@@ -1,0 +1,6 @@
+name: Shaza
+version: ${project.version}
+main: sh.aza.Shaza
+api-version: 1.12
+commands:
+  setcoin:
