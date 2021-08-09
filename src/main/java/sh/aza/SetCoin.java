@@ -27,8 +27,7 @@ public class SetCoin implements CommandExecutor {
                 x.printStackTrace();
             }
         } else if (sender instanceof Player) {
-            Player p = (Player) sender;
-            p.sendMessage(ChatColor.BOLD + ">> Hmm. That didn't work out. Try again.");
+            sender.sendMessage(ChatColor.BOLD + ">> Hmm. That didn't work out. Try again.");
         } else {
             shaza.getLogger().warning(">> Hmm. That didn't work out. Try again.");
         }
